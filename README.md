@@ -1,2 +1,2 @@
-# Simple IRS system from scratch
-A simple search engine developed using python
+# IRS system from scratch
+A search engine developed using python
