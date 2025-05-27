@@ -190,11 +190,6 @@ Based on the report and standard IR practices, potential limitations and future 
 *   **User Experience:** Implementing features like query auto-completion (e.g., using LSTMs as mentioned in the report) for real-time interaction.
 *   **Hyperparameter Optimization:** More systematic tuning of parameters (e.g., LSA components, embedding dimensions) could yield further performance gains.
 
-## Author
-
-*   Ahmed Shmels (GE22M009)
-    *   Department of Data Science & Artificial Intelligence, IIT Madras
-
 ## Keywords
 
 Information Retrieval (IR), Natural Language Processing (NLP), Vector Space Model (VSM), TF-IDF, Latent Semantic Analysis (LSA), Explicit Semantic Analysis (ESA), Word2Vec (W2V), Evaluation Metrics (Precision, Recall, F-score, MAP, nDCG), Cranfield Dataset, Text Preprocessing, Lemmatization, Tokenization.
