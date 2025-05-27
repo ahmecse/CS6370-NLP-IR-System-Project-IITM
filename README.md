@@ -199,5 +199,27 @@ Based on the report and standard IR practices, potential limitations and future 
 
 Information Retrieval (IR), Natural Language Processing (NLP), Vector Space Model (VSM), TF-IDF, Latent Semantic Analysis (LSA), Explicit Semantic Analysis (ESA), Word2Vec (W2V), Evaluation Metrics (Precision, Recall, F-score, MAP, nDCG), Cranfield Dataset, Text Preprocessing, Lemmatization, Tokenization.
 
+## References
+
+[1] G. Salton, A. Wong, and C.-S. Yang, “A vector space model for automatic indexing,” Communications of the ACM, vol. 18, no. 11, pp. 613–620, 1975.
+
+[2] C. D. Manning, P. Raghavan, and H. Schütze, Introduction to information retrieval. Cambridge university press, 2008.
+
+[3] S. Deerwester, S. T. Dumais, G. W. Furnas, T. K. Landauer, and R. Harshman, “Indexing by latent semantic analysis,” Journal of the American society for information science, vol. 41, no. 6, pp. 391–407, 1990.
+
+[4] T. K. Landauer, P. W. Foltz, and D. Laham, “An introduction to latent semantic analysis,” Discourse processes, vol. 25, no. 2-3, pp. 259–284, 1998.
+
+[5] T. Hofmann, “Probabilistic latent semantic indexing,” in Proceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval, pp. 50–57, 1999.
+
+[6] C. Carpineto and G. Romano, “A survey of automatic query expansion in information retrieval,” Acm Computing Surveys (CSUR), vol. 44, no. 1, pp. 1–50, 2012.
+
+[7] H. K. Azad and A. Deepak, “Query expansion techniques for information retrieval: a survey,” Information Processing & Management, vol. 56, no. 5, pp. 1698–1735, 2019.
+
+[8] J. A. Hartigan and M. A. Wong, “Algorithm as 136: A k-means clustering algorithm,” Journal of the royal statistical society. series c (applied statistics), vol. 28, no. 1, pp. 100–108, 1979.
+
+[9] I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning with neural networks,” Advances in neural information processing systems, vol. 27, 2014.
+
+[10] D. M. Blei, A. Y. Ng, and M. I. Jordan, “Latent dirichlet allocation,” Journal of machine Learning research, vol. 3, no. Jan, pp. 993–1022, 2003.
+
 
 
