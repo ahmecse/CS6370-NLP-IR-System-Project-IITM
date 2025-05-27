@@ -1,4 +1,4 @@
-# Advanced Information Retrieval System with NLP Enhancements
+# NLP project: Advanced Information Retrieval System.
 
 ## Project Overview
 
